@@ -4,6 +4,11 @@ Creating a time series model of university impact on community infrastructure us
 
 Selection of community infrastructure development index:
 
+Gentrification Index =
+$$ Σ (change in card consumption + search frequency + number of Instagram keywords - publicly announced land price) $$
+
+(Z-score standardization in progress)
+
 
 Korean shapefile and border Source: QGIS Developers Korea
 
