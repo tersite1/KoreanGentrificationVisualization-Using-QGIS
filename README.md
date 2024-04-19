@@ -17,8 +17,22 @@ Selection of university development index: number of SCI-level papers published
 
 Goesan-gun and Boeun-gun in Chungcheongbuk-do were selected and applied to the infrastructure index.
 
-Reasons for selecting Goesan-gun and Boeun-gun:
+## Reasons for selecting Goesan-gun and Boeun-gun:
 
 * Similar population (approximately 50,000),
 * It is expected that there will be no outliers in the same community
 * Presence or absence of a 4-year university.
+
+
+
+## How Visualize? 
+
+* Process data by
+*     python LinearRegressionModel.py
+
+
+* than copy the script wrote at
+*     RUNONQGIS.py
+
+
+
